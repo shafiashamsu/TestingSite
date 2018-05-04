@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Information
-title : Installing Jekyll Permalink
+title : "Installing Jekyll Permalink!"
 ---
 The easiest way to run Jekyll is by using the RubyInstaller for Windows.
 
